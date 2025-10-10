@@ -1,8 +1,12 @@
 # Vorol_08-Printer-Setup
 
-
-! WIP !
+! This project is still very WIP !
 
 This is a collection of all relevant configs, updates and references to used mods etc for my modded Sovol Sv08 3d-Printer, "Vorol".
 
-Link to the printables collection containing (almost) all mods i installed on the Vorol: https://www.printables.com/@Nefroh_3322102/collections/2428270
+
+Relevant Links: 
+Cool Klipper add-ons i use and recommend:
+  - Shaketune: https://github.com/Frix-x/klippain-shaketune
+  - https://github.com/andrewmcgr/klipper_tmc_autotune
+- This printers Printables collection: https://www.printables.com/@Nefroh_3322102/collections/2428270
